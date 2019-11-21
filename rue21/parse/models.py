@@ -7,7 +7,7 @@ class Product(models.Model):
     color = models.CharField(max_length=100)
     size = models.CharField(max_length=100)
     description = models.TextField()
-    qty = models.IntegerField()
+    qty = models.IntegerField(blank=True, null=True)
 
 def __str__(self):
     return 'Item: {0} Color: {1} Size: {2} Description: {3} QTY: {4}'.format(
