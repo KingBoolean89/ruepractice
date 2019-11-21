@@ -31,3 +31,8 @@ Challenges:
 Parsing data with trailing commas
 Dealing with empty rows and columns
 
+![First Upload](https://github.com/KingBoolean89/ruepractice/blob/master/rue21/image/Screen%20Shot%202019-1.png)
+
+![Upload Difference](https://github.com/KingBoolean89/ruepractice/blob/master/rue21/image/Screen%20Shot%202019-2.png)
+
+![Second Upload](https://github.com/KingBoolean89/ruepractice/blob/master/rue21/image/Screen%20Shot%202019-3.png)
