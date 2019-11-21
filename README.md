@@ -2,7 +2,7 @@
 
 Rue 21 Code Kata 
 
-1. Our client wants us to take a CSV file of their Purchase Orders(POs), parse it, and 
+Our client wants us to take a CSV file of their Purchase Orders(POs), parse it, and 
 upload it into a DB. They will then upload a second CSV file with updates and new POs. Log any updates or new insertions that result from uploading the second CSV 
 file. 
 
@@ -30,3 +30,4 @@ Django import-export library
 Challenges:
 Parsing data with trailing commas
 Dealing with empty rows and columns
+
